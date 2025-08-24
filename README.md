@@ -1,4 +1,5 @@
-###Churn Modelling with Artificial Neural Networks
+Churn Modelling with Artificial Neural Networks
+
 This project demonstrates how to build and train an Artificial Neural Network (ANN) to predict customer churn using the Churn Modelling dataset.
 
 Dataset:
